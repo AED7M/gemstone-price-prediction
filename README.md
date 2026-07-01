@@ -96,7 +96,7 @@ Models were evaluated using:
 - seaborn
 
 ## Usage
-1. Prepare the data in the required format
+1. Prepare the data in the required format 
 2. Run the preprocessing steps
 3. Train the model
 4. Make predictions on new data
